@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DataDrivenfromExcel
+Bundle-SymbolicName: DataDrivenfromExcel
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: DataDrivenfromExcel
+Export-Package: seleniumDataDrivenpkg
